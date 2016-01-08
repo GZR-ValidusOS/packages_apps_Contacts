@@ -64,4 +64,5 @@
 
     <!-- Color of disabled text and unfocused hint text inside the contact editor. 25% black. -->
     <color name="editor_disabled_text_color">#4dffffff</color>
+
 </resources>
