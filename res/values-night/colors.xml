@@ -65,4 +65,12 @@
     <!-- Color of disabled text and unfocused hint text inside the contact editor. 25% black. -->
     <color name="editor_disabled_text_color">#4dffffff</color>
 
+    <color name="photo_text_bar_bg">#7F000000</color>
+    <color name="text_color_white">@android:color/white</color>
+    <color name="editor_account_header_bg">#111111</color>
+    <color name="list_item_name_text_color">#ffffffff</color>
+    <color name="white">@android:color/white</color>
+    <color name="edit_kind_text_appearance_text_color">@*android:color/material_deep_teal_500</color>
+    <color name="contacts_confirm_cancel_text_color">#ffffffff</color>
+
 </resources>
